@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Generated data (large synthetic files)
+data/synthetic_*.geojson
+data/large_*.geojson
+data/*.parquet
+data/*.gpkg
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.prj
+
+# Profiling outputs
+profiling_*.txt
+memory_trace*.txt
+performance_*.json
+*.prof
+
+# Plots
+*.png
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

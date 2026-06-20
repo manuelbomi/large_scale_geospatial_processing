@@ -1,0 +1,10 @@
+geopandas>=0.14.0
+fiona>=1.9.0
+shapely>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+pyarrow>=13.0.0
+matplotlib>=3.7.0
+pyproj>=3.5.0
+# dask[dataframe]>=2023.0.0  # Optional — install separately for Script 07
+# memory-profiler>=0.61.0    # Optional — for @profile decorator usage
