@@ -1,5 +1,5 @@
 # Large-Scale Geospatial Processing — Performance Engineering
-### Author: Emmanuel Oyekanlu — Principal Data Engineer
+### Author: Emmanuel Oyekanlu — Principal AI/Data Solutions Engineer
 
 ---
 
@@ -165,4 +165,4 @@ Script 06 generates:
 
 ---
 
-*Emmanuel Oyekanlu — Principal Data Engineer | Large-Scale Geospatial & Data Lakehouse Engineering*
+*Emmanuel Oyekanlu —  Principal AI/Data Solutions Engineer*
